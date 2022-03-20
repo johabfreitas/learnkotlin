@@ -10,6 +10,8 @@ fonte: https://hyperskill.org/
  **/
 
 fun main() {
-    val line = readln()
-    println(line)
+    var a = readln().toDouble()
+    println(a)
+
+
 }
